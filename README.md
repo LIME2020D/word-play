@@ -1,5 +1,5 @@
 # 끝말잇기
-## git clone, pull, push 연습
+## git clone, pull, push 협업 연습
 
 1. 탕수육
 2. 육개장
